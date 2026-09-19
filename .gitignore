@@ -1,0 +1,52 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+
+# Build output
+dist/
+build/
+
+.env
+.env.local
+.env.*.local
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# IDE-specific files
+.vscode/
+.idea/
+*.swp
+
+# Dependency directories
+jspm_packages/
+
+# Testing coverage
+coverage/
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+
+# Local npm or yarn configuration
+.npmrc
+.yarnrc
+
+# Debugging files
+*.tgz
+*.lock-wscript
+
+# Optional npm cache directory
+.npm/
+
+
+
+
+
