@@ -175,7 +175,7 @@ Follow these steps to set up and run StudyNotion locally:
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/sumileturki/StudyNotion.git
+git clone https://github.com/MohdFaizanf1/Study-Notion.git
 cd StudyNotion
 ```
 
