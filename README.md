@@ -241,6 +241,6 @@ npm start
 ```
 
 ## Contact
-SumileTurki
+Mohd Faizan
 
-    turkisumile@gmail.com
+    faizfaizanfaizz@gmail.com
